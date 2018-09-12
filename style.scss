@@ -20,7 +20,7 @@ html {
 body {
 	background-image: url(https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350);
 	background-repeat: no-repeat;  
-	font: 18px/1.4 $helvetica;
+	font: 18px/1.4 "Lucida Console", Monaco, monospace;
   color: #CDCDCD;
 }
 
@@ -33,8 +33,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: "Lucida Console", Monaco, monospace;
+  color: #CDCDCD;
   font-weight: bold;
 
   line-height: 1.7;
