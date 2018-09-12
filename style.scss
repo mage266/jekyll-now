@@ -145,6 +145,35 @@ img {
     clear: both;
 }
 
+table {
+  border-radius: 5px;
+  border-collapse: collapse;
+	border-radius: 25px;
+  align: right;
+  width: 100%;
+}
+
+table, th, td {
+	border: 1px solid black;
+	background: none;
+
+}
+
+td {
+	color: #99d3df;
+   vertical-align: middle; 
+   padding: 10px;
+}	
+
+th {
+  color: #88b8d6;
+  background: none;
+  height:50px;
+  vertical-align: middle;
+  display: none;
+}
+
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
