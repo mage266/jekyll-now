@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background-image: url(https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350);
+	background-repeat: no-repeat;  
+	font: 18px/1.4 $helvetica;
+  color: #CDCDCD;
 }
 
 .container {
@@ -28,6 +29,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+  Background-colour: rgba(153, 211, 223, 0.75)
 }
 
 h1, h2, h3, h4, h5, h6 {
