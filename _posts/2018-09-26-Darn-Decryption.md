@@ -57,12 +57,16 @@ published: true
     <td>Engagement</td>
     <td>I listened and learnt from mr keen</td>
   </tr>
+</table>
+
+
+<table>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>I could have asked Mr. Keen or used my knowledge for encoding to figure out how to decode, I didn’t though so next time I should.</td>
+    <td>I could have asked Mr. Keen or used my knowledge for encoding to figure out how to decode, I didn't though so next time I should.</td>
     <td></td>
   </tr>
   <tr>
